@@ -4,7 +4,7 @@ Template Repo with Webpack Ready To Go
 
 To run site, use command:
 
-    npm webpack serve
+    npx webpack serve
 
 in terminal, then navigate to http://localhost:8080/
 
